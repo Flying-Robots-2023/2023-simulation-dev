@@ -1,0 +1,2 @@
+offb
+-DCATKIN_DEVEL_PREFIX=/home/px4devel/catkin_ws/offboard_package/devel -DCMAKE_INSTALL_PREFIX=/home/px4devel/catkin_ws/offboard_package/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/px4devel/catkin_ws/offboard_package/install
+
+Name: offb
+Description: Description of offb
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
