@@ -1,8 +1,5 @@
 FROM osrf/ros:noetic-desktop-full
 
-#LABEL maintainer="user@email.com"
-#LABEL version="0.1"
-
 LABEL description="This is custom Docker Image for \
 building PX4 with ROS/Gazebo compatibility for SITL."
 RUN apt-get update && apt-get install -y \
